@@ -1,0 +1,27 @@
+
+      html {
+          font-size: 12px;
+          font-family: 'Open Sans',sans-serif;
+          background-color: #FAEBD7;
+           }
+
+      h1 {
+        font-size: 30px;
+        text-align: center;
+        margin: 0;
+      
+         }
+      h2 {
+        font-size: 25px;
+
+      }
+      li {
+        font-size: 15px;
+      }
+      h3 {
+        font-size: 25px;
+        padding:20px 0;
+      }
+      p{
+        font-size: 15px;
+      }
